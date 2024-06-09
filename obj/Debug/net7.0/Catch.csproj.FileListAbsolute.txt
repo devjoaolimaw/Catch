@@ -1,0 +1,14 @@
+c:\dev\Catch\bin\Debug\net7.0\Catch.exe
+C:\dev\Catch\bin\Debug\net7.0\Catch.deps.json
+C:\dev\Catch\bin\Debug\net7.0\Catch.runtimeconfig.json
+c:\dev\Catch\bin\Debug\net7.0\Catch.dll
+c:\dev\Catch\bin\Debug\net7.0\Catch.pdb
+c:\dev\Catch\obj\Debug\net7.0\Catch.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Catch\obj\Debug\net7.0\Catch.AssemblyInfoInputs.cache
+c:\dev\Catch\obj\Debug\net7.0\Catch.AssemblyInfo.cs
+c:\dev\Catch\obj\Debug\net7.0\Catch.csproj.CoreCompileInputs.cache
+c:\dev\Catch\obj\Debug\net7.0\Catch.dll
+c:\dev\Catch\obj\Debug\net7.0\refint\Catch.dll
+c:\dev\Catch\obj\Debug\net7.0\Catch.pdb
+C:\dev\Catch\obj\Debug\net7.0\Catch.genruntimeconfig.cache
+C:\dev\Catch\obj\Debug\net7.0\ref\Catch.dll
